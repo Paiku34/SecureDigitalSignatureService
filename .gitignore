@@ -1,0 +1,22 @@
+# Eseguibili e file oggetto
+*.o
+bin/
+obj/
+
+# Chiavi private e database
+server_priv.pem
+server_pub.pem
+*.db
+
+# Traccia del progetto (copyright docente)
+docs/FoC-project-2024_25-Digital Signature Server.pdf
+
+# Configurazione IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
