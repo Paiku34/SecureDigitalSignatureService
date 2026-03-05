@@ -6,6 +6,12 @@ The system implements a custom cryptographic protocol with **Perfect Forward Sec
 
 ---
 
+## 🎬 Demo
+
+![DSS Demo](demo.gif)
+
+---
+
 ## 📁 Project Structure
 
 ```
