@@ -1,5 +1,12 @@
 # 🔐 DSS — Digital Signature Server
 
+![Language](https://img.shields.io/badge/language-C%2B%2B17-blue?logo=c%2B%2B)
+![OpenSSL](https://img.shields.io/badge/crypto-OpenSSL-red?logo=openssl)
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20WSL-lightgrey?logo=linux)
+![License](https://img.shields.io/badge/license-Academic-orange)
+![Course](https://img.shields.io/badge/course-Foundations%20of%20Cybersecurity-purple)
+![PFS](https://img.shields.io/badge/PFS-FFDHE2048-green)
+
 A secure client-server application for **digital signature** operations, built with C++ and OpenSSL as a university project for the *Foundations of Cybersecurity* course (2024/25).
 
 The system implements a custom cryptographic protocol with **Perfect Forward Secrecy**, **mutual authentication**, and an encrypted channel for key management and document signing/verification.
